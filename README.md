@@ -29,16 +29,16 @@ workshops at [Flutter & Friends 2024](https://flutterfriends.dev/):
 | Panel talk moderated by Alek Åström                                       | Alek Åström + others | TBA    | [YouTube](https://www.youtube.com/watch?v=7Dx54EZiMAY&t=28122s) | TBA       |                 | 
 
 ### Studio Stage
-| Talk title                                                                        | Presenter(s)         | Slides | Stream recording                                                | Recording | Other resources |
-|-----------------------------------------------------------------------------------|----------------------|--------|-----------------------------------------------------------------|-----------|-----------------|
-| Inside Jaspr: Building a Dart web framework from scratch                          | Kilian Schulte       | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=144s)   | TBA       |                 |
-| Practical Design Patterns for Flutter Development                                 | Majid Hajian         | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=2827s)  | TBA       |                 |
-| Embedded Flutter on Raspberry Pi 5: Simplification of Daily E-Commerce Operations | Michał Gapiński      | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=7525s)  | TBA       |                 |
-| Flutter & Threads                                                                 | Alexandre Moureaux   | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=10641s) | TBA       |                 |
-| Quick Wins - how to make your app more accessible                                 | Simon Auer           | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=13353s) | TBA       |                 | 
-| Native Background Processing with Flutter                                         | Dominik Roszkowski   | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=16897s) | TBA       |                 | 
-| A closer look at the blur effect in Flutter                                       | Raouf Rahiche        | [Slides+Code](https://github.com/Rahiche/a_closer_look_at_the_blur_effect)    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=19818s) | TBA       |                 | 
-| How big are macros really?                                                        | Jochum van der Ploeg | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=21640s) | TBA       |                 | 
+| Talk title                                                                        | Presenter(s)         | Slides                                                                     | Stream recording                                                | Recording | Other resources |
+|-----------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------|-----------|-----------------|
+| Inside Jaspr: Building a Dart web framework from scratch                          | Kilian Schulte       | TBA                                                                        | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=144s)   | TBA       |                 |
+| Practical Design Patterns for Flutter Development                                 | Majid Hajian         | TBA                                                                        | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=2827s)  | TBA       |                 |
+| Embedded Flutter on Raspberry Pi 5: Simplification of Daily E-Commerce Operations | Michał Gapiński      | TBA                                                                        | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=7525s)  | TBA       |                 |
+| Flutter & Threads                                                                 | Alexandre Moureaux   | TBA                                                                        | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=10641s) | TBA       |                 |
+| Quick Wins - how to make your app more accessible                                 | Simon Auer           | TBA                                                                        | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=13353s) | TBA       |                 | 
+| Native Background Processing with Flutter                                         | Dominik Roszkowski   | TBA                                                                        | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=16897s) | TBA       |                 | 
+| A closer look at the blur effect in Flutter                                       | Raouf Rahiche        | [Slides+Code](https://github.com/Rahiche/a_closer_look_at_the_blur_effect) | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=19818s) | TBA       |                 | 
+| How big are macros really?                                                        | Jochum van der Ploeg | TBA                                                                        | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=21640s) | TBA       |                 | 
 
 ### Workshops
 
