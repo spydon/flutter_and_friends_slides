@@ -37,7 +37,7 @@ workshops at [Flutter & Friends 2024](https://flutterfriends.dev/):
 | Flutter & Threads                                                                 | Alexandre Moureaux   | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=10641s) | TBA       |                 |
 | Quick Wins - how to make your app more accessible                                 | Simon Auer           | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=13353s) | TBA       |                 | 
 | Native Background Processing with Flutter                                         | Dominik Roszkowski   | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=16897s) | TBA       |                 | 
-| A closer look at the blur effect in Flutter                                       | Raouf Rahiche        | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=19818s) | TBA       |                 | 
+| A closer look at the blur effect in Flutter                                       | Raouf Rahiche        | [Slides+Code](https://github.com/Rahiche/a_closer_look_at_the_blur_effect)    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=19818s) | TBA       |                 | 
 | How big are macros really?                                                        | Jochum van der Ploeg | TBA    | [YouTube](https://www.youtube.com/watch?v=j2rODBDY0G8&t=21640s) | TBA       |                 | 
 
 ### Workshops
