@@ -50,7 +50,7 @@ workshops at [Flutter & Friends 2024](https://flutterfriends.dev/):
 | Porting your mobile app to TV platforms                                           | Sasha Denisov                      | TBA    |                 |
 | Learn how to build real-time games with Flutter and Dart Frog                     | Mike Diarmid, Jochum van der Ploeg | TBA    |                 |
 | Beyond Mobile: Powering Embedded Devices with Flutter                             | Moritz Theis, Payam Zahedi         | TBA    |                 |
-| Flutter + Gemini: Your AI App Development Launchpad                               | Alfredo Bautista Santos            | TBA    |                 |
+| Flutter + Gemini: Your AI App Development Launchpad                               | Alfredo Bautista Santos            | [Slides](https://docs.google.com/presentation/d/1Zv_ZJLIudZTnp_yIELYefvmp2-fiGaSpAiMKAiJpKWY/edit?usp=sharing)    |  [Repo](https://github.com/alfredobs97/flutter-ai-workshop)               |
 | Building a Cloud-Powered Diary Application with Flutter                           | Muhammed Salih Güler               | TBA    |                 |
 | Advanced Flutter Navigation: Mastering Declarative Navigation                     | Çağatay Ulusoy                     | TBA    |                 |
 | Flutter in the year 2044: Discussing a community plan for Flutter’s next 20 years | Simon Lightfoot                    | TBA    |                 |
